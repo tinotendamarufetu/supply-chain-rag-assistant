@@ -6,10 +6,7 @@ An intelligent Retrieval-Augmented Generation (RAG) assistant designed to aggreg
 
 ## 🛠️ Architecture & Workflow
 
-> [!NOTE]  
-<img width="2391" height="8192" alt="Data Ingestion to RAG-2026-09-27-133238" src="https://github.com/user-attachments/assets/65060297-e03e-46e7-a1b5-ba9cfb66a876" />
-
-> *Upload a high-level architecture diagram here showing the flow: Data Ingestion (Cloudscraper/BS4) ➔ Chunking & Embedding (MiniLM) ➔ Vector Store (FAISS) ➔ Query Pipeline (LangChain + Groq Llama-3.3-70b) ➔ Streamlit UI.*
+<img width="2391" height="8192" alt="Data Ingestion to RAG-2026-09-27-133238" src="https://github.com/user-attachments/assets/46281eb2-dedb-4ca1-b41d-d3aca00b2d48" />
 
 The assistant follows a standard 5-stage RAG workflow:
 
